@@ -50,6 +50,17 @@ The initial practical applications we envision include:
    - Camera detects when the constructed instrument is played
    - System responds with sounds, visual feedback, or further interactions
 
+Some ideas don't require 3d printing:
+  
+7. **Internet browsing**
+   - Imagine a physical binder with the Internet in it! You pull papers out and see the associated websites.
+
+8. **Email**
+   - I have an inbox for mail that shows how much there is. I can move the sheet of paper to the table and see the message projected on it. I move it to read or deleted. I can also reply as normal. Each sheet gets a unique mail item.
+
+9. **Coding**
+    - Projecting such a high-dimensional activity as tracing through software stacks and folder directory demands a 3 dimensional workspace. Multiple Levels can be assembled on your desktop with papers corresponding to different layers of your software stack. Coding can start to use your visual, spatial, and tactile intelligence and memory more effectively. 
+     
 ## Software Stack
 The preliminary software stack includes:
 
