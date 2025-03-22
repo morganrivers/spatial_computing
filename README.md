@@ -2,6 +2,8 @@
 
 # Robotic Desktop Workspace: Integrating Spatial Computing with Robotic Arms
 
+Please note the image and many of these ideas below are unedited responses from chatgpt formulating my ideas, proceed with caution! The readme is meant as an inspiration and brainstorm, rather than a fully-thought out project framwork.
+
 ## Overview
 This project explores the integration of spatial computing environments (inspired by Dynamicland and [folk.computer](https://folk.computer/)) with robotic manipulation capabilities provided by SO-100 robotic arms. The core idea is to extend traditional desktop computing beyond screens into interactive, physical-digital hybrid spaces.
 
