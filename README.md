@@ -13,6 +13,7 @@ We aim to:
 - Create a tangible computing environment bridging digital projection, physical objects, and robotic manipulation.
 - Facilitate novel interaction paradigms such as remote physical collaboration, interactive 3D websites, on-demand physical object construction (via 3D printing), and intelligent document organization.
 - Push computing beyond the screen into a physically embodied and interactive environment.
+- Bring people together. Computing can be open and collaborative, interaction with computing systems can allow for parallel input. We can start to interact in the same physical space with computing more effectively.
 
 ## Applications
 
