@@ -1,3 +1,5 @@
+![Robotic Desktop Workspace](https://github.com/morganrivers/spatial_computing/blob/main/DALL%C2%B7E%202025-03-22%2013.34.45%20-%20A%20high-tech%20workspace%20featuring%20a%20pair%20of%20SO-100%20robotic%20arms%20with%20precise%20pincers%2C%20actively%20organizing%20printed%20pieces%20of%20paper%20and%20small%203D-printed%20c.webp?raw=true)
+
 # Robotic Desktop Workspace: Integrating Spatial Computing with Robotic Arms
 
 ## Overview
