@@ -93,9 +93,7 @@ Potential expansions of this project include:
 - Integration with large language models for conversational interfaces that control physical manipulation
 - Advanced haptic feedback mechanisms
 - Computer vision-powered design tools that blend physical modeling with digital precision
-- Educational installations for museums and schools
-- Artistic installations exploring the boundaries of physical and digital interaction
-
+  
 ## Repository Structure (Placeholder)
 This repository currently serves as a placeholder and brainstorming space. Future implementations, documentation, code, and resources related to the integration of spatial computing and robotic arms will be provided here.
 
